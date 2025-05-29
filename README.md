@@ -10,14 +10,14 @@ This project is a simple Excel dashboard that analyzes global sales and profit d
 - Monthly Sales
 
 ## Tools
-- Microsoft Excel
+- Microsoft Excel (Data Cleaning)
 - Pivot Table
 - Slicer
 - Custom Calculations (Profit Margin)
 
 ## Key Insights
-- Highest sales in 2014 were from the Small Business segment.
-- Germany has the highest average profit margin among all countries.
+- Highest sales in 2014 were from the Government segment.
+- France has the highest average profit margin among all countries.
 - Paseo is the top-performing product in terms of both sales and profit margin.
 
 ## Files
